@@ -1,0 +1,113 @@
+归档缺失项检查报告
+========================
+检查时间：2026-05-13 10:33:37
+项目根目录：2026-ms-yewenguang-mas-codegen-repair
+
+一、关键模板文件检查
+------------------------
+关键模板文件均已存在。
+
+二、关键材料目录内容检查
+------------------------
+仍为空或仅包含占位文件的关键目录数量：91
+- 待补充：01_thesis/thesis_pdf
+- 待补充：01_thesis/thesis_source
+- 待补充：01_thesis/abstract
+- 待补充：01_thesis/figures
+- 待补充：01_thesis/tables
+- 待补充：01_thesis/review_comments
+- 待补充：01_thesis/defense_version
+- 待补充：01_thesis/final_version
+- 待补充：02_papers/related_papers
+- 待补充：02_papers/submitted_versions
+- 待补充：02_papers/published_versions
+- 待补充：02_papers/rebuttal_or_response
+- 待补充：02_papers/manuscript_notes
+- 待补充：03_methods/chapter3_cross_model_codegen/code
+- 待补充：03_methods/chapter3_cross_model_codegen/data
+- 待补充：03_methods/chapter3_cross_model_codegen/configs
+- 待补充：03_methods/chapter3_cross_model_codegen/scripts
+- 待补充：03_methods/chapter3_cross_model_codegen/results
+- 待补充：03_methods/chapter3_cross_model_codegen/figures
+- 待补充：03_methods/chapter3_cross_model_codegen/docs
+- 待补充：03_methods/chapter4_trace_driven_repair/code
+- 待补充：03_methods/chapter4_trace_driven_repair/data
+- 待补充：03_methods/chapter4_trace_driven_repair/configs
+- 待补充：03_methods/chapter4_trace_driven_repair/scripts
+- 待补充：03_methods/chapter4_trace_driven_repair/results
+- 待补充：03_methods/chapter4_trace_driven_repair/figures
+- 待补充：03_methods/chapter4_trace_driven_repair/docs
+- 待补充：03_methods/chapter5_process_aligned_repair/code
+- 待补充：03_methods/chapter5_process_aligned_repair/data
+- 待补充：03_methods/chapter5_process_aligned_repair/configs
+- 待补充：03_methods/chapter5_process_aligned_repair/scripts
+- 待补充：03_methods/chapter5_process_aligned_repair/results
+- 待补充：03_methods/chapter5_process_aligned_repair/figures
+- 待补充：03_methods/chapter5_process_aligned_repair/docs
+- 待补充：03_methods/chapter6_repo_level_codegen/code
+- 待补充：03_methods/chapter6_repo_level_codegen/data
+- 待补充：03_methods/chapter6_repo_level_codegen/configs
+- 待补充：03_methods/chapter6_repo_level_codegen/scripts
+- 待补充：03_methods/chapter6_repo_level_codegen/results
+- 待补充：03_methods/chapter6_repo_level_codegen/figures
+- 待补充：03_methods/chapter6_repo_level_codegen/docs
+- 待补充：03_methods/shared_resources/prompts
+- 待补充：03_methods/shared_resources/common_utils
+- 待补充：03_methods/shared_resources/datasets
+- 待补充：03_methods/shared_resources/evaluation
+- 待补充：03_methods/shared_resources/docs
+- 待补充：04_system/frontend
+- 待补充：04_system/backend
+- 待补充：04_system/deployment
+- 待补充：04_system/database
+- 待补充：04_system/api_docs
+- 待补充：04_system/screenshots
+- 待补充：04_system/demo_video
+- 待补充：04_system/user_manual
+- 待补充：04_system/test_records
+- 待补充：05_datasets/raw
+- 待补充：05_datasets/processed
+- 待补充：05_datasets/samples
+- 待补充：05_datasets/licenses
+- 待补充：05_datasets/metadata
+- 待补充：06_experiments/HumanEval
+- 待补充：06_experiments/MBPP
+- 待补充：06_experiments/HumanEvalPlus
+- 待补充：06_experiments/BigCodeBench
+- 待补充：06_experiments/ClassEval
+- 待补充：06_experiments/RepoExec
+- 待补充：06_experiments/EvoCodeBench
+- 待补充：06_experiments/ablation
+- 待补充：06_experiments/cost_analysis
+- 待补充：07_results/summary_tables
+- 待补充：07_results/raw_outputs
+- 待补充：07_results/final_figures
+- 待补充：07_results/case_studies
+- 待补充：08_ppt_and_reports/defense_ppt
+- 待补充：08_ppt_and_reports/group_meeting_ppt
+- 待补充：08_ppt_and_reports/opening_report
+- 待补充：08_ppt_and_reports/midterm_report
+- 待补充：08_ppt_and_reports/final_report
+- 待补充：08_ppt_and_reports/project_application
+- 待补充：08_ppt_and_reports/other_reports
+- 待补充：09_review_and_graduation_materials/thesis_review_comments
+- 待补充：09_review_and_graduation_materials/revision_explanations
+- 待补充：09_review_and_graduation_materials/defense_materials
+- 待补充：09_review_and_graduation_materials/graduation_forms
+- 待补充：09_review_and_graduation_materials/signatures_and_scans
+- 待补充：09_review_and_graduation_materials/archive_scans
+- 待补充：09_review_and_graduation_materials/official_documents
+- 待补充：11_weekly_and_process_records/weekly_reports
+- 待补充：11_weekly_and_process_records/meeting_notes
+- 待补充：11_weekly_and_process_records/task_records
+- 待补充：11_weekly_and_process_records/progress_snapshots
+
+三、处理建议
+------------------------
+1. 优先补充论文最终版、源文件、图表源文件和答辩材料。
+2. 优先补充第 3 至第 6 章方法代码、配置、脚本和实验结果。
+3. 优先补充系统前后端、部署说明、截图、演示视频和测试记录。
+4. 对无法提交的大文件或受限材料，在对应目录放置说明文件。
+5. 补充材料后重新运行本脚本，并更新归档状态总表。
+
+报告输出位置：00_admin/generated_missing_report.txt

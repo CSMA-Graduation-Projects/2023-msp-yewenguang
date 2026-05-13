@@ -1,0 +1,29 @@
+repository_name: 2026-ms-yewenguang-mas-codegen-repair
+organization_name: CSMA-Graduation-Projects
+graduation_year: 2026
+degree: ms
+student_name: Ye Wenguang
+student_name_pinyin: yewenguang
+project_short_name: mas-codegen-repair
+thesis_title_cn: 多智能体协同驱动的代码生成与自修复方法研究
+thesis_title_en: Research on Multi-Agent Collaboration-Driven Code Generation and Self-Repair Methods
+advisor: Jiangping Huang
+keywords:
+  - 多智能体协同
+  - 代码生成
+  - 自动程序修复
+  - 运行轨迹
+  - 测试驱动开发
+  - 仓库级代码生成
+  - 结构化记忆
+  - 自动调试系统
+research_topics:
+  - 基于跨模型协同的代码生成方法
+  - 基于程序运行轨迹的多智能体代码生成与修复方法
+  - 基于过程对齐的测试驱动代码生成与修复方法
+  - 基于上下文感知与记忆增强的仓库级代码生成方法
+  - 基于运行时轨迹的多智能体代码生成与自动调试系统
+status: 初始化完成，待学生补充论文、代码、数据、实验、系统和毕业材料
+organized_by: Jiangping Huang
+maintained_by: Jiangping Huang
+last_updated: 2026-05-13

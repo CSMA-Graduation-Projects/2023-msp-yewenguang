@@ -1,0 +1,232 @@
+2026-ms-yewenguang-mas-codegen-repair/
+├── 00_admin
+│   ├── archive_checklist.md
+│   ├── archive_status_table.md
+│   ├── generated_missing_report.txt
+│   ├── missing_items_todo.md
+│   ├── student_submission_notice.md
+│   ├── submission_requirements.md
+│   └── version_log.md
+├── 01_thesis
+│   ├── abstract
+│   │   └── .gitkeep
+│   ├── defense_version
+│   │   └── .gitkeep
+│   ├── figures
+│   │   └── .gitkeep
+│   ├── final_version
+│   │   └── .gitkeep
+│   ├── review_comments
+│   │   └── .gitkeep
+│   ├── tables
+│   │   └── .gitkeep
+│   ├── thesis_pdf
+│   │   └── .gitkeep
+│   └── thesis_source
+│       └── .gitkeep
+├── 02_papers
+│   ├── manuscript_notes
+│   │   └── .gitkeep
+│   ├── published_versions
+│   │   └── .gitkeep
+│   ├── rebuttal_or_response
+│   │   └── .gitkeep
+│   ├── related_papers
+│   │   └── .gitkeep
+│   └── submitted_versions
+│       └── .gitkeep
+├── 03_methods
+│   ├── chapter3_cross_model_codegen
+│   │   ├── code
+│   │   │   └── .gitkeep
+│   │   ├── configs
+│   │   │   └── .gitkeep
+│   │   ├── data
+│   │   │   └── .gitkeep
+│   │   ├── docs
+│   │   │   └── .gitkeep
+│   │   ├── figures
+│   │   │   └── .gitkeep
+│   │   ├── results
+│   │   │   └── .gitkeep
+│   │   ├── scripts
+│   │   │   └── .gitkeep
+│   │   └── README.md
+│   ├── chapter4_trace_driven_repair
+│   │   ├── code
+│   │   │   └── .gitkeep
+│   │   ├── configs
+│   │   │   └── .gitkeep
+│   │   ├── data
+│   │   │   └── .gitkeep
+│   │   ├── docs
+│   │   │   └── .gitkeep
+│   │   ├── figures
+│   │   │   └── .gitkeep
+│   │   ├── results
+│   │   │   └── .gitkeep
+│   │   ├── scripts
+│   │   │   └── .gitkeep
+│   │   └── README.md
+│   ├── chapter5_process_aligned_repair
+│   │   ├── code
+│   │   │   └── .gitkeep
+│   │   ├── configs
+│   │   │   └── .gitkeep
+│   │   ├── data
+│   │   │   └── .gitkeep
+│   │   ├── docs
+│   │   │   └── .gitkeep
+│   │   ├── figures
+│   │   │   └── .gitkeep
+│   │   ├── results
+│   │   │   └── .gitkeep
+│   │   ├── scripts
+│   │   │   └── .gitkeep
+│   │   └── README.md
+│   ├── chapter6_repo_level_codegen
+│   │   ├── code
+│   │   │   └── .gitkeep
+│   │   ├── configs
+│   │   │   └── .gitkeep
+│   │   ├── data
+│   │   │   └── .gitkeep
+│   │   ├── docs
+│   │   │   └── .gitkeep
+│   │   ├── figures
+│   │   │   └── .gitkeep
+│   │   ├── results
+│   │   │   └── .gitkeep
+│   │   ├── scripts
+│   │   │   └── .gitkeep
+│   │   └── README.md
+│   └── shared_resources
+│       ├── common_utils
+│       │   └── .gitkeep
+│       ├── datasets
+│       │   └── .gitkeep
+│       ├── docs
+│       │   └── .gitkeep
+│       ├── evaluation
+│       │   └── .gitkeep
+│       └── prompts
+│           └── .gitkeep
+├── 04_system
+│   ├── api_docs
+│   │   └── .gitkeep
+│   ├── backend
+│   │   └── .gitkeep
+│   ├── database
+│   │   └── .gitkeep
+│   ├── demo_video
+│   │   └── .gitkeep
+│   ├── deployment
+│   │   └── .gitkeep
+│   ├── frontend
+│   │   └── .gitkeep
+│   ├── screenshots
+│   │   └── .gitkeep
+│   ├── test_records
+│   │   └── .gitkeep
+│   ├── user_manual
+│   │   └── .gitkeep
+│   └── README.md
+├── 05_datasets
+│   ├── licenses
+│   │   └── .gitkeep
+│   ├── metadata
+│   │   └── .gitkeep
+│   ├── processed
+│   │   └── .gitkeep
+│   ├── raw
+│   │   └── .gitkeep
+│   ├── samples
+│   │   └── .gitkeep
+│   └── dataset_description.md
+├── 06_experiments
+│   ├── ablation
+│   │   └── .gitkeep
+│   ├── BigCodeBench
+│   │   └── .gitkeep
+│   ├── ClassEval
+│   │   └── .gitkeep
+│   ├── cost_analysis
+│   │   └── .gitkeep
+│   ├── EvoCodeBench
+│   │   └── .gitkeep
+│   ├── HumanEval
+│   │   └── .gitkeep
+│   ├── HumanEvalPlus
+│   │   └── .gitkeep
+│   ├── MBPP
+│   │   └── .gitkeep
+│   ├── RepoExec
+│   │   └── .gitkeep
+│   └── experiment_index.md
+├── 07_results
+│   ├── case_studies
+│   │   └── .gitkeep
+│   ├── final_figures
+│   │   └── .gitkeep
+│   ├── raw_outputs
+│   │   └── .gitkeep
+│   ├── summary_tables
+│   │   └── .gitkeep
+│   └── result_notes.md
+├── 08_ppt_and_reports
+│   ├── defense_ppt
+│   │   └── .gitkeep
+│   ├── final_report
+│   │   └── .gitkeep
+│   ├── group_meeting_ppt
+│   │   └── .gitkeep
+│   ├── midterm_report
+│   │   └── .gitkeep
+│   ├── opening_report
+│   │   └── .gitkeep
+│   ├── other_reports
+│   │   └── .gitkeep
+│   └── project_application
+│       └── .gitkeep
+├── 09_review_and_graduation_materials
+│   ├── archive_scans
+│   │   └── .gitkeep
+│   ├── defense_materials
+│   │   └── .gitkeep
+│   ├── graduation_forms
+│   │   └── .gitkeep
+│   ├── official_documents
+│   │   └── .gitkeep
+│   ├── revision_explanations
+│   │   └── .gitkeep
+│   ├── signatures_and_scans
+│   │   └── .gitkeep
+│   └── thesis_review_comments
+│       └── .gitkeep
+├── 10_docs
+│   ├── archive_rules.md
+│   ├── artifact_description.md
+│   ├── directory_guide.md
+│   ├── environment_setup.md
+│   ├── faq.md
+│   ├── handover_guide.md
+│   ├── project_overview.md
+│   └── reproduction_guide.md
+├── 11_weekly_and_process_records
+│   ├── meeting_notes
+│   │   └── .gitkeep
+│   ├── progress_snapshots
+│   │   └── .gitkeep
+│   ├── task_records
+│   │   └── .gitkeep
+│   ├── weekly_reports
+│   │   └── .gitkeep
+│   └── timeline.md
+├── tools
+│   ├── check_missing_items.py
+│   ├── generate_tree.py
+│   └── README.md
+├── .gitignore
+├── project.yaml
+├── README.md
+└── tree.txt
