@@ -1,0 +1,11 @@
+torch
+transformers
+datasets
+numpy
+pandas
+accelerate
+bitsandbytes
+protobuf
+tqdm
+objgraph
+human-eval
